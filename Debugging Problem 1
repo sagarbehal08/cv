@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Sagar's Personal Site</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <table cellspacing="18">
+      <tr>
+        <td><img src="image/sagar Image.png"  alt="sagar profile picture"/></td>
+        <td><h1>Sagar Behal</h1>
+        <p><em>Student of <a href="https://www.chitkara.edu.in"><strong>Chitkara University</strong></a>.</em></p>
+        <p>I am an Full Stack Developer. I 💖 to code and I have great ethics and moral values that ensure professionalism.</p>
+        </td>
+      </tr>
+    </table>
+    <hr size="3"/>
+    <h3>Educations</h3>
+    <table cellspacing="10">
+      <thead>
+        <tr>
+          <th>Qualification</th>
+          <th>School/College</th>
+          <th>University of Board</th>
+          <th>Year</th>
+          </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>B.E (CSE)</td>
+          <td>Chitkara School of Engg. & Tech, Punjab</td>
+          <td>Chitkara University</td>
+          <td>2017 - 2021</td>
+        </tr>
+        <tr>
+          <td>Class 12</td>
+          <td>Baba Masthnath Public School, Rohtak</td>
+          <td>CBSE</td>
+          <td>2016 - 2017</td>
+        </tr>
+        <tr>
+          <td>Class 10</td>
+          <td>I.B School, Rohtak</td>
+          <td>CBSE</td>
+          <td>2014 - 2015</td>
+        </tr>
+      </tbody>
+      <tfoot></tfoot>
+      </table>
+      <hr size="3">
+    <h3>Subjects</h3>
+    <ul>
+      <li>Data Structure</li>
+      <li>Operating System</li>
+      <li>Software Engineering</li>
+      <li>Database Management System</li>
+    </ul>
+    <hr size="3">
+    <h3>Technical Skills</h3>
+    <table cellspacing="12">
+      <tr>
+        <td>
+          <table>
+            <tr>
+              <td>Data Structure</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Java</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>C++</td>
+              <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>C</td>
+              <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Spring-Boot</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>MongoDB</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Angular 8</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+          </table>
+        </td>
+        <td>
+          <table>
+            <tr>
+              <td>Hyper Text Markup Language (HTML5)</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Cascading Style Sheet (CSS)</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>JavaScript 6</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>TypeScript</td>
+              <td>⭐⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Bootstrap 4</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>JQuery</td>
+              <td>⭐⭐⭐</td>
+            </tr>
+            <tr>
+              <td>Firebase</td>
+              <td>⭐⭐⭐</td>
+            </tr>
+
+          </table>
+        </td>
+      </tr>
+    </table>
+    <hr size="3">
+    <a href="hobbies.html">My Hobbies</a>
+    <a href="contact-me.html">Contact Me</a>
+  </body>
+</html>
